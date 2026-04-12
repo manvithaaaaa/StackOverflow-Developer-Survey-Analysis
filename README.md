@@ -17,7 +17,7 @@ Extract meaningful insights from the survey data to understand the current state
 
 <h2>Project Progress</h2>
 <ul>
-<li> [ ] Data Collection</li>
+<li> [x] Data Collection</li>
 <li> [ ] Data Wrangling</li>
 <li>[ ] Exploratory Data Analysis</li>
 <li> [ ] Data Visualization</li>
