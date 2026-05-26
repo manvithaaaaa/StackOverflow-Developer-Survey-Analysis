@@ -19,7 +19,7 @@ Extract meaningful insights from the survey data to understand the current state
 <ul>
 <li> [x] Data Collection</li>
 <li> [x] Data Wrangling</li>
-<li>[ ] Exploratory Data Analysis</li>
+<li>[x] Exploratory Data Analysis</li>
 <li> [ ] Data Visualization</li>
 <li> [ ] Building a Dashboard</li>
 </ul>
